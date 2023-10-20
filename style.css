@@ -1,0 +1,187 @@
+body
+{
+    background-color: #303030;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+#conteiner
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle
+{
+    width: 960px;
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.square
+{
+    width: 50%;
+    float: left;
+}
+
+#logo
+{
+    float:left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 58px;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    
+}
+
+#clock
+{
+    float:left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 58px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 35px;
+    text-align: right;
+}
+
+.tile1
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #2e92d0;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+}
+.tile1:hover
+{
+    background-color: #1d81c0;
+}
+
+.tile2
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #666666;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+}
+.tile2:hover
+{
+    background-color: #555555;
+}
+
+.tile3
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #83c748;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+}
+.tile3:hover
+{
+    background-color: #72b637;
+}
+
+.tile4
+{
+    margin: 10px;
+    
+    width: 405px;
+    height: 90px;
+    padding: 25px;
+    padding-left: 50px;
+    font-size: 26px;
+    background-color: #ee5a32;
+}
+
+.tile5
+{
+    margin: 10px;
+    width: 420px;
+    height: 244px;
+    background-color: #666666;
+    text-align: justify;
+    padding: 30px;
+    font-size: 90%;
+}
+
+.facebook
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #4668b3;
+    float: left;
+}
+.facebook:hover
+{
+    background-color: #3557a2;
+}
+
+.github
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #000000;
+    float: left;
+}
+.github:hover
+{
+    background-color: #222222;
+}
+
+.linkedin
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #0E76A8;
+    float: left;
+    text-align: center;
+    font-size: 50px;
+}
+
+.linkedin:hover
+{
+    background-color: #0f65a7;
+}
+
+a.tilelink
+{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+
+a.tilelink2
+{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 105px;
+    height: 142px;
+}
+
+a.logolink
+{
+    color: #ffffff;
+    text-decoration: none;
+}
